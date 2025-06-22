@@ -1,0 +1,11 @@
+let colors = ["red", "yellow", "orange", "blue", "green"];
+console.log(colors.splice(4));
+console.log(colors);
+console.log(colors.splice(2, 1));
+console.log(colors);
+console.log(colors.splice(2, 1, "purple", "skyblue"));
+console.log(colors);
+console.log(colors.splice(1, 0, "grey"));
+console.log(colors);
+console.log(colors.splice(1, 1, "navyblue"));
+console.log(colors);
