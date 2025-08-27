@@ -1,0 +1,12 @@
+console.log(Math.PI);
+console.log(Math.E);
+console.log(Math.abs(1));
+console.log(Math.abs(-1));
+console.log(Math.pow(2, 3));
+console.log(Math.floor(2.4));
+console.log(Math.floor(2.9999));
+console.log(Math.floor(-2.9999));
+console.log(Math.ceil(2.000001));
+console.log(Math.ceil(2.9999));
+console.log(Math.ceil(-2.9999));
+console.log(Math.random());
