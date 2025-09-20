@@ -1,0 +1,8 @@
+let id = setInterval(() => {
+  console.log("Hello World");
+}, 2000);
+
+setTimeout(() => {
+  console.log("Finished");
+  clearInterval(id);
+}, 11000);
