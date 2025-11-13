@@ -1,0 +1,11 @@
+let image = document.querySelector("img");
+console.dir(image);
+console.log(image.getAttribute("id"));
+image.setAttribute("id", "hello");
+console.log(image.getAttribute("id"));
+console.log(image.getAttribute("src"));
+image.setAttribute("src", "assets/creation_1.png");
+console.log(image.getAttribute("src"));
+console.log(image.getAttribute("class"));
+image.setAttribute("class", "iamdon");
+console.log(image.getAttribute("class"));
