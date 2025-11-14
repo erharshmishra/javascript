@@ -1,0 +1,14 @@
+let heading = document.querySelector("h1");
+console.log(heading.classList);
+heading.classList.add("heading");
+console.log(heading.classList);
+heading.classList.add("back");
+console.log(heading.classList);
+heading.classList.remove("back");
+console.log(heading.classList);
+console.log(heading.classList.contains("heading"));
+console.log(heading.classList.contains("back"));
+console.log(heading.classList.toggle("heading"));
+console.log(heading.classList.toggle("heading"));
+console.log(heading.classList.toggle("back"));
+console.log(heading.classList);
