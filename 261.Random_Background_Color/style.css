@@ -1,0 +1,11 @@
+div {
+    height: 200px;
+    width: 700px;
+    border: 1px solid #000;
+    margin: auto;
+    margin-top: 40px;
+}
+
+body {
+    text-align: center;
+}
