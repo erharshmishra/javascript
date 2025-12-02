@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: wheat;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    margin-top: 60px;
+    color: red;
+    font-size: 20px;
+}
+
+textarea {
+    margin-top: 80px;
+    background-color: yellow;
+}
