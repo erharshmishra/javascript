@@ -1,7 +1,6 @@
 # javascript
-- Welcome to my **JavaScript Learning & Practice Repository**!.  
-- This repository contains a **step-by-step collection of JavaScript concepts**, practice questions, assignments, and mini projects — starting from **Hello World** all the way to **APIs, Promises, and Async/Await**.
-- Perfect for **beginners to intermediate learners** who want to master JavaScript fundamentals through hands-on practice 💻✨.
+Welcome to my **JavaScript Learning & Practice Repository**!.This repository contains a **step-by-step collection of JavaScript concepts**, practice questions, assignments, and mini projects — starting from **Hello World** all the way to **APIs, Promises, and Async/Await**.
+Perfect for **beginners to intermediate learners** who want to master JavaScript fundamentals through hands-on practice 💻✨.
 
 ## 📂 Repository Structure
 The repository is organized in a **sequential learning format**, where each folder represents a specific concept or practice set.
@@ -108,8 +107,3 @@ The repository is organized in a **sequential learning format**, where each fold
 
 ## 👨‍💻 Author
 **Harsh Mishra**
-
-## ⭐ Support
-**Note** : If you found this repository helpful, don’t forget to star ⭐ the repo — it really helps!.
-
-**Happy Coding! 😄💻**
