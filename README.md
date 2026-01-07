@@ -94,10 +94,10 @@ The repository is organized in a **sequential learning format**, where each fold
 - Updating Query Strings
 
 ## 🎯 Purpose of This Repository
-- 📚 Learn JavaScript from scratch
-- 🧪 Practice concepts with real examples
-- 🛠️ Build a strong foundation for frontend development
-- 🔥 Prepare for interviews & projects
+- 📚 Learn JavaScript from scratch.
+- 🧪 Practice concepts with real examples.
+- 🛠️ Build a strong foundation for frontend development.
+- 🔥 Prepare for interviews & projects.
 
 ## 🚀 How to Use
 1. Clone the repository: git clone https://github.com/your-username/your-repo-name.git
